@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FaceRecog/.idea/FaceRecog.iml" filepath="$PROJECT_DIR$/../FaceRecog/.idea/FaceRecog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hand_Sign.iml" filepath="$PROJECT_DIR$/.idea/Hand_Sign.iml" />
+    </modules>
+  </component>
+</project>
